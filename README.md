@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on small projects
-- 🌱 I’m currently learning everything 😁
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about anything
 - 😄 Pronouns: She/Her
