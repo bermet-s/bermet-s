@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm most scared of dying without living.
--->
