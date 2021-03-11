@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm most scared of dying without living.
+- ⚡ Fun fact: I looove going to concerts
